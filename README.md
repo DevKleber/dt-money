@@ -1,46 +1,37 @@
-# Getting Started with Create React App
+# [aplication](http://localhost:8080)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Participants
 
-## Available Scripts
+[<img src="https://avatars0.githubusercontent.com/u/15957216?s=460&v=4" width="75px;"/>](https://github.com/DevKleber) <br />
+[Kleber S.](https://github.com/DevKleber)
 
-In the project directory, you can run:
+## Dependencies
 
-### `npm start`
+https://nodejs.org/en/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Demonstration
 
-### `npm test`
+![Demo](https://i.imgur.com/ITHn9qv.png)
+![Demo](https://i.imgur.com/JgXJz0G.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Tecnologias, Hooks e Bibliotecas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- ReactJS
+- TypeScript
+- useState
+- useEfect
+- Context API
+- Styled Components
+- Mirage JS
+- Axios
+- React Modal
+- Polished
 
-### `npm run eject`
+## 💻 Projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+O dtmoney é uma aplicação de controle financeiro com a mesma ideia que o [dev.finances](https://github.com/FelipeBrenner/maratona-discover-01-devfinances), porém com tecnologias e recursos estudados e utilizados mais avançados, bibliotecas open source desenvolvidas pela comunidade. Foi desenvolvida durante as aulas do Chapter II da trilha de ReactJS do Bootcamp Ignite da Rocketseat, e nela é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
